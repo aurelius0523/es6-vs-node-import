@@ -1,0 +1,13 @@
+{
+  "name": "es6-vs-node-imports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:es6": "node es6/main.js",
+    "run:nodejs": "node native-nodejs/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
